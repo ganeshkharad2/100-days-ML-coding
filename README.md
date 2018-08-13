@@ -14,3 +14,10 @@ https://www.youtube.com/watch?v=yViL8dOPwLw
 
 check this link he has done good Explaination
 https://github.com/Avik-Jain/100-Days-Of-ML-Code
+
+
+
+To understand loss function ,cost function & gradient descent watch it insequence to understand bettter
+1-loss function -   https://www.youtube.com/watch?v=HIQlmHxI6-0
+2-cost function- https://www.youtube.com/watch?v=SHEPb1JHw5o
+3-gradient descent- https://www.youtube.com/watch?v=uJryes5Vk1o
